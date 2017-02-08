@@ -1,0 +1,10 @@
+Binary
+Timestamp - 32 bit
+Variables 12 x 16 bit
+Total: 192 bit
+
+CSV
+Timestamp - 10 char
+Variables 12 x 6 char
+Commas 12 x 1 char
+Total: 94 -> 94 bytes -> 752 bit

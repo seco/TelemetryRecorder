@@ -1,0 +1,4 @@
+//rename config.example to config.h and add values
+
+const char *ssid = "your_ssid";
+const char *password = "Wifi_password";
